@@ -1,0 +1,20 @@
+<h1 class="lead text-primary"> {{ title }}</h1>
+<form class="form-group">
+    <input list="name " name="name ">
+    <datalist id="name ">
+      <select class="form-control form-control-lg">
+        <option  *ngFor="let name of data ">{{name}}</option>
+        </select>
+  </datalist>
+
+</form>
+<button class="btn btn-primary btn-md">Submit</button>
+<hr/>
+<br>
+<br>
+<div class="container">
+
+    <app-home>
+    </app-home>
+
+</div>
