@@ -27,7 +27,7 @@
     "materialize": "^1.0.0",
     "ngx-bootstrap": "^4.2.0",
     "ngx-filter-pipe": "^2.1.2",
-    "npm": "^6.9.0",
+    "npm": "^6.14.6",
     "rxjs": "^6.3.3",
     "tslib": "^1.9.0",
     "xlsx": "^0.14.3",
